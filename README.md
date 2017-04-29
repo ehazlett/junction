@@ -6,5 +6,6 @@
 \____/\__,_/_/ /_/\___/\__/_/\____/_/ /_/
 
 ```
-# Junction
+
+# Junction [![Build Status](https://travis-ci.org/ehazlett/junction.svg?branch=master)](https://travis-ci.org/ehazlett/junction)
 Service mesh routing
